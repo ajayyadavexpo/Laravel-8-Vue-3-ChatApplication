@@ -32,7 +32,7 @@
 
 # Output
 
-![alt text](https://github.com/AjayYadavAi/ChatApplication/blob/main/image.png?raw=true)
+![alt text](https://github.com/AjayYadavAi/Laravel-8-Vue-3-ChatApplication/blob/main/image.png?raw=true)
 
 
 
