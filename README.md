@@ -7,6 +7,35 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+
+## Steps:
+- laravel new ChatApplication (create project)
+- composer require laravel/ui
+- php artisan ui vue --auth
+
+### Install Vue3
+	- npm install vue@next vue-loader@next
+	- remove package.lock.json
+	- remove node_modules folder
+	- run : `npm install`
+
+### laravel-socket
+	- - [Read the documentation](https://beyondco.de/docs/laravel-websockets/getting-started/introduction)
+
+### Laravel echo
+	- [Laravel Broadcasting - echo ](https://laravel.com/docs/8.x/broadcasting)
+
+### run project :
+	- php artisan serve 
+	- php artisan websockets:serve
+	- npm run watch 
+
+# Output
+
+![alt text](https://github.com/AjayYadavAi/ChatApplication/blob/main/image.png?raw=true)
+
+
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
